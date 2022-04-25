@@ -18,4 +18,5 @@ Resident- Discrimination
 Resident- Bais 
 
 Policies- Bais 
+
 ![2022-04-25 (1)](https://user-images.githubusercontent.com/97460847/165155808-7834ec7b-7ae4-4281-8ef0-2573b703e192.png)
